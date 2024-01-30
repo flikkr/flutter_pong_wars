@@ -2,6 +2,8 @@
 
 An adaptation of Pong Wars using Flutter, inspired by [this project](https://pong-wars.koenvangilst.nl/).
 
+![](preview.gif)
+
 ## Introduction
 
 I was at work when someone shared a link to the original project by [vnglst](https://github.com/vnglst) on Slack. I thought that was a cool mini-project and there were versions of it written in Python, C++, but no Flutter! So after arriving home, I decided to try and recreate this in Flutter which was also a good opportunity for me to learn how to use `CustomPainter` to draw to the canvas. I was helped **_a lot_** by Github Copilot and ChatGPT, but I guess that's just how coding in 2024 is ¯\\\_(ツ)\_/¯
@@ -10,7 +12,7 @@ The code is based on the [original source code](https://github.com/vnglst/pong-w
 
 ## Supported platforms
 
-All of them (probably, haven't tested)
+All of them (probably, haven't tested responsiveness)
 
 - Android
 - iOS
